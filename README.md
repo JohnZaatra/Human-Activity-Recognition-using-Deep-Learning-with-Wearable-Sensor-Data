@@ -72,7 +72,7 @@ To get started with this project, follow the steps below:
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Human-Activity-Recognition.git
+git clone https://github.com/JohnZaatra/Human-Activity-Recognition.git
 cd Human-Activity-Recognition
 ```
 ### 2. Install the required dependencies:
