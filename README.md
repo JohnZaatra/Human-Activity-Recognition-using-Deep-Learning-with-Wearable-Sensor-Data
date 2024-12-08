@@ -66,25 +66,6 @@ The dataset used for this project contains acceleration data collected from wear
 - **Type #1**: Columns include `measurement type`, `x`, `y`, and `z` (use only rows with `measurement type = "acceleration [m/s/s]"`).
 - **Type #2**: Columns include `x [m]`, `y [m]`, and `z [m]` (use all available data).
 
-## Installation and Setup
-
-To get started with this project, follow the steps below:
-
-### 1. Clone the repository:
-```bash
-git clone https://github.com/JohnZaatra/Human-Activity-Recognition.git
-cd Human-Activity-Recognition
-```
-### 2. Install the required dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-### 3. 3. Run the model:
-```bash
-python main.py
-```
-
 ## How to Contribute
 
 I welcome contributions to this project. If you have ideas for improvements, optimizations, or new features, feel free to fork the repository and submit a pull request. Please ensure that you follow the coding standards and include tests where applicable.
