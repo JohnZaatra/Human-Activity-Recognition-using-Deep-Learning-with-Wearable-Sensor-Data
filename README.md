@@ -66,10 +66,6 @@ The dataset used for this project contains acceleration data collected from wear
 - **Type #1**: Columns include `measurement type`, `x`, `y`, and `z` (use only rows with `measurement type = "acceleration [m/s/s]"`).
 - **Type #2**: Columns include `x [m]`, `y [m]`, and `z [m]` (use all available data).
 
-## How to Contribute
-
-I welcome contributions to this project. If you have ideas for improvements, optimizations, or new features, feel free to fork the repository and submit a pull request. Please ensure that you follow the coding standards and include tests where applicable.
-
 ## Acknowledgments
 
 This project is part of a broader exploration into Human Activity Recognition, where we applied state-of-the-art techniques in machine learning to a practical, real-world problem. Special thanks to the original dataset creators and the academic community for sharing valuable insights on time-series classification.
